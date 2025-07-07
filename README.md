@@ -84,19 +84,10 @@ A PowerShell-based tool for collecting comprehensive system information from Win
 3. Press Enter to execute
 
 ---
-
-## 📄 Sample Output
-
-```csv
-ComputerName,Manufacturer,Model,SerialNumber,OS,OSVersion...
-WORKSTATION-01,Dell Inc.,OptiPlex 7090,ABC12345,Microsoft Windows 11 Pro,10.0.22621...
-```
-
 **Console Output:**
 ```
 ✅ Inventory exported to C:\ComputerInventory.csv
 ```
-
 ---
 
 ## 🔧 Common Use Cases
